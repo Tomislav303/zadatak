@@ -1,0 +1,37 @@
+a[href*="google"]{
+            color: green;
+        }
+a {
+    color: red;
+}
+p:nth-of-type(2):after,
+p:nth-of-type(3):after {
+  content: "NEW";
+  color: yellow;
+}
+
+
+
+
+
+#second-div p:nth-child(odd) {
+  color: red;
+}
+
+#second-div p:nth-child(even) {
+  color: blue;
+  
+
+}
+
+
+
+#paragraph:hover {
+    font-style: italic; 
+	
+.paragraph {
+  position: relative;
+}
+
+
+

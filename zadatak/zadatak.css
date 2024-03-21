@@ -10,7 +10,7 @@ p:nth-of-type(3)::after {
     color: yellow;    
 }
 p:nth-last-child(1):hover {
-    font-style: italic; /* Postavite kurzivni stil */
+    font-style: italic;
 }
 
 h3 + p {
